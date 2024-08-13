@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmatheo
 - 👀 I’m interested in ... crypto currency
-- 🌱 I’m currently learning ...React and python
+- 🌱 I’m currently learning ...solidity
 - 💞️ I’m looking to collaborate on ...any crypto project
 - 📫 How to reach me ... emmanuelneduobi@gmail.com
 
